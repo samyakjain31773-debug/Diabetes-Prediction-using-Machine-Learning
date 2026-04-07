@@ -76,4 +76,4 @@ jupyter notebook
 E-mail- samyakjain31773@gmail.com
 ---
 
-⭐ If you like this project, give it a star!
+
